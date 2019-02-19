@@ -1,0 +1,1 @@
+/usr/bin/c++   -Wall -Wextra -Wpedantic -Wshadow -Wundef -Wno-missing-field-initializers  -rdynamic CMakeFiles/employee_test.dir/src/employee.cpp.o CMakeFiles/employee_test.dir/src/employee_test.cpp.o  -o employee_test 

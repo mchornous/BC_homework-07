@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/employee.h
+iostream
+-
+string
+-
+
+/home/mchornous/Training/C++GLBasecamp/HomeWork/Dubovyk/07/src/employee.cpp
+employee.h
+/home/mchornous/Training/C++GLBasecamp/HomeWork/Dubovyk/07/src/employee.h
+
+/home/mchornous/Training/C++GLBasecamp/HomeWork/Dubovyk/07/src/employee_test.cpp
+employee.h
+/home/mchornous/Training/C++GLBasecamp/HomeWork/Dubovyk/07/src/employee.h
+iostream
+-
+
